@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-gcc -rdynamic CMakeFiles/df19.out.dir/src/df19.c.o -o /home/lisalab/dataset/Binary_Dataset/CWE_Samples/arm64/double_free/df19.out 

@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-gcc -rdynamic CMakeFiles/df32.out.dir/src/df32.c.o -o /home/lisalab/dataset/Binary_Dataset/CWE_Samples/arm64/double_free/df32.out 

@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-gcc -rdynamic CMakeFiles/malloc12.out.dir/src/malloc12.c.o -o /home/lisalab/dataset/Binary_Dataset/CWE_Samples/arm64/mem_leak/malloc12.out 
